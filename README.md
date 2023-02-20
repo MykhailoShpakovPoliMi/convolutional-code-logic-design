@@ -4,7 +4,7 @@
 VHDL (acronym for VHSIC Hardware Description Language, where
 "VHSIC" stands for Very High Speed Integrated Circuits) is the fundamental tool for digital circuits design. 
 
-The aim of this project was to <u>design</u>, <u>implement</u> and <u>synthesize</u> a hardware module that serves as a
+The aim of this project was to <b>design</b>, <b>implement</b> and <b>synthesize</b> a hardware module that serves as a
 convolutional code and that satisfies certain requirements.
 
 The component was designed and tested using Xilinx Vivado.
